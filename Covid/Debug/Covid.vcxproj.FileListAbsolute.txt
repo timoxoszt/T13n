@@ -1,0 +1,2 @@
+D:\Baitap\OOP\Covid\Debug\Covid.exe
+D:\Baitap\OOP\Covid\Debug\Covid.pdb
